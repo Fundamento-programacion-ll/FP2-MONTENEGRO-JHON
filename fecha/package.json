@@ -1,0 +1,23 @@
+{
+  "name": "fp2-montenegro-jhon",
+  "version": "1.0.0",
+  "description": "```javascript\r $npm i -g@nestjs/cli$ nest new project-name\r ```",
+  "main": "01-javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fundamento-programacion-ll/FP2-MONTENEGRO-JHON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fundamento-programacion-ll/FP2-MONTENEGRO-JHON/issues"
+  },
+  "homepage": "https://github.com/Fundamento-programacion-ll/FP2-MONTENEGRO-JHON#readme",
+  "dependencies": {
+    "http-server": "^0.12.1",
+    "moment": "^2.24.0"
+  }
+}
